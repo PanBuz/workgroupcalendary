@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EditUserStyle">
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="EditdateStyle">
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>
